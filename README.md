@@ -60,16 +60,16 @@ Use the following text as a check list. Go through your code 4 times, following 
 
 4. You may also provide artistic feedback, with commentary on color choice, use of space (composition) and style.
 
-5. In the text entry on Canvas, submit the link to the code (Github repo) you will be reviewing. Please also submit the text "completed" when you have submitted your review on Github. 
+5. **This part is important** In the text entry on [Canvas](https://canvas.colorado.edu/courses/75648/assignments/1106666), submit the link to the code (Github repo) you will be reviewing. Please also submit the text "completed" when you have submitted your review on Github. 
 
  
 
-## EXTRA CREDIT:
+## EXTRA CREDIT (Grads must complete 2 of the 4):
 
-0.5 pt - Talk it out: AFTER submitting your code edits, meet with the original programmer and share your feedback with them. Have a discussion about what the programmer wanted to do and how they succeeded or failed. In a """triple quote comment""" write what struggles and successes you both have in common. (Not applicable for self-reviews.)
+0.5 pt - **Talk it out:** AFTER submitting your code edits, meet with the original programmer and share your feedback with them. Have a discussion about what the programmer wanted to do and how they succeeded or failed. In a """triple quote comment""" or in the review summary on Github, write what struggles and successes you both have in common. (Not applicable for self-reviews.)
 
-1 pt - Get feedback: Show the output of the code that you're reviewing to a friend (hooray for sharing screens), and have them give you some feedback on the art. Add what they said as a """triple quote comment""" at the bottom of the edited code.
+1 pt - **Get feedback:** Show the output of the code that you're reviewing to a friend, and have them give you some feedback on the art. Add what they said as a """triple quote comment""" at the bottom of the edited code or in the review summary on Github.
 
-1 pt - Upgrade: Sit with the original programmer and find out what they would expand their code to do, then add it into your edits. Meet with them again and add their feedback to the changes in a """triple quote comment""" at the bottom of the code. For your own code, add your reasons for the expansion, and in the """triple quote comment""".
+1 pt - **Upgrade:** Sit with the original programmer and find out what they would expand their code to do, then add it into your edits. Meet with them again and add their feedback to the changes in a """triple quote comment"""  at the bottom of the code, or in the review summary on Github. For your own code, add your reasons for the expansion, and in the """triple quote comment""".
 
-1 pt - Overachieve: Do more than one code review. You may do 1 extra credit option for that assignment.
+1 pt - **Overachieve:** Do more than one code review. You may do 1 extra credit option for that assignment for credit (grads get extra credit, too!).
