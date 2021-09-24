@@ -25,22 +25,22 @@ Code Review is a way of looking at previously-written scripts (code that runs ta
 Use the following text as a check list. Go through your code 4 times, following each of these points as the focus each time.
 ### Quality Code...
 1. **does what it's supposed to do.** To ensure this, you should:
-  - Make sure there is a description at the top of the code, so you know if the code does what it should or not.
-  - Scan the side for warnings (exclamation point triangle) and errors (red circle). Make sure you understand each warning. Edit the code to remove errors and as many warnings as possible. If you keep warnings know why it's worth doing so.
-  - Run the code and make sure that the description matches the result. If it doesn't, edit the description.
+    - Make sure there is a description at the top of the code, so you know if the code does what it should or not.
+    - Scan the side for warnings (exclamation point triangle) and errors (red circle). Make sure you understand each warning. Edit the code to remove errors and as many warnings as possible. If you keep warnings know why it's worth doing so.
+    - Run the code and make sure that the description matches the result. If it doesn't, edit the description.
 
 2. **doesn't contain defects and problems.** To check for this in the code, you should: 
-  - Run the code and look a the command line output for errors. Use the error report to navigate to the bad line of code and fix or delete it.
-  - Examine the code for poor syntax or organization. (Are all of your variables defined together? Are tasks commented with descriptions? Do you have cleanup at the end of your code?)
+    - Run the code and look a the command line output for errors. Use the error report to navigate to the bad line of code and fix or delete it.
+    - Examine the code for poor syntax or organization. (Are all of your variables defined together? Are tasks commented with descriptions? Do you have cleanup at the end of your code?)
 
 3. **is easy to read, maintain or extend.** Most likely where you'll spend the most time. To check for this, you should:
-  - Organize by section: imports (get libraries), setup (make turtles, panel, etc.), define variables, create functions, perform tasks
-  - Use empty lines to separate sections.
-  - Use comments to 1) label sections (variables, drawing, etc.), 2) describe an important variable, like a turtle, and what it will do, 3) describe what a loop does, or what a conditional checks for.
+    - Organize by section: imports (get libraries), setup (make turtles, panel, etc.), define variables, create functions, perform tasks
+    - Use empty lines to separate sections.
+    - Use comments to 1) label sections (variables, drawing, etc.), 2) describe an important variable, like a turtle, and what it will do, 3) describe what a loop does, or what a conditional checks for.
   - Use negative space! Don't cram all your code into one block. Use empty lines and spaces between values to make your code easy to read. 
 
 4. **is [D.R.Y](https://www.softwareyoga.com/is-your-code-dry-or-wet/) (Don't Repeat Yourself)**, and not W.E.T. (Write Everything Twice)
-  - Go through the code and look for repeating patterns. Do you see the same block of code repeated several times to make a pattern? Put in in a loop! See the same value used throughout the code? Save it to a variable! Do you see many turtles doing something 1 turtle can do? Consider consolidating.
+    - Go through the code and look for repeating patterns. Do you see the same block of code repeated several times to make a pattern? Put in in a loop! See the same value used throughout the code? Save it to a variable! Do you see many turtles doing something 1 turtle can do? Consider consolidating.
 
 ### For full credit you should:
 1. Use Github or Spyder to review 
