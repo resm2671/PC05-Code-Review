@@ -9,9 +9,13 @@ The theme of this week is "You know more than you think you know!" This week, yo
 
 ## Debugging - Due Monday, September 27th at 10pm
 Bugs are a natural, normal part of the code. Strong programmers know that when they run newly built code, they should anticipate errors. There is an absurd number of memes on this topic. I encourage you to think this way, too: **You will make broken code first, then fix it.**
-Please walk through the assignment [linked on Canvas](https://canvas.colorado.edu/courses/75648/assignments/1182628) for clear instructions. Then download the code in this repository and fix it with your newfound skills. 
+
+Walk through the assignment [linked on Canvas](https://canvas.colorado.edu/courses/75648/assignments/1182628) for clear instructions. Then download the code in this repository and fix it with your newfound skills. 
+
 **Submit the code by adding it to this repository.** 
 Click the "Add Code" button, then select "Upload New File". You can drag and drop your file into the window that opens.
+
+
 
 ## PC05 Code Review - Due Wednesday, October 6th at 10pm
 ### What is Code Review?
