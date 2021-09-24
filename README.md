@@ -20,9 +20,7 @@ Click the "Add Code" button, then select "Upload New File". You can drag and dro
 ## PC05 Code Review - Due Wednesday, October 6th at 10pm
 ### What is Code Review?
 
-Code Review is a way of looking at previously-written scripts (code that runs tasks) with a goal of improving code quality. In this class, we're not only going to focus on broad features, like organization, variable naming and spacing, but also whether our code is Pythonic-following traditions and expectations in programming style. These features of quality are listed in the section below.
-
-Click [here](https://google.github.io/eng-practices/review/reviewer/), for more on how to do a code review.
+Code Review is a way of looking at previously-written scripts (code that runs tasks) with a goal of improving code quality. In this class, we're not only going to focus on broad features, like organization, variable naming and spacing, but also whether our code is Pythonic, meaning it follows traditions and expectations in programming style. These features of quality are listed in the section below. [More on how to do a code review.](https://google.github.io/eng-practices/review/reviewer/)
 
 Use the following text as a check list. Go through your code 4 times, following each of these points as the focus each time.
 ### Quality Code...
