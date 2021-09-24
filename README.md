@@ -13,6 +13,8 @@ Bugs are a natural, normal part of the code. Strong programmers know that when t
 
 Walk through the assignment [linked on Canvas](https://canvas.colorado.edu/courses/75648/assignments/1182628) for clear instructions. Then download **debugPractice.py** from this repository and fix it with your newfound skills. 
 
+There are 6 bugs in the code. 1 is silent.
+
 **Submit the code by adding it to this repository.** 
 Click the "Add Code" button, then select "Upload New File". You can drag and drop your file into the window that opens.
 
