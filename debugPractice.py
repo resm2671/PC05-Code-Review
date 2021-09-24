@@ -9,7 +9,7 @@ This script (code that performs actions) will help you learn how to debug
 your code, or someone else's! Run the code and read the error report
 and try to find the error. 
 
-                        There are 3 bugs in this code. 
+                        There are 6 bugs in this code. 
                      *** 1 bug will not throw a error! ***
 
 Errors come up as the code executes, so bugs earlier in the code will throw 
