@@ -44,9 +44,9 @@ Use the following text as a check list. Go through your code 4 times, following 
 
 ### For full credit you should:
 1. Use Github or Spyder to review 
-        - Your old code (PC02-04)
-        - A classmate's code (PC02-04)
-        - Dr. Z's Bad Code (in this repo)
+    - Your old code (PC02-04)
+    - A classmate's code (PC02-04)
+    - Dr. Z's Bad Code (in this repo)
 2. Go through the code, making line-by-line edits. You must add at least one flow control into the code (for loop, if statment, while loop). (If there is no place to do so, add something to the code!) [Video tutorial here](https://drive.google.com/file/d/1GUof2Q7bomjw_qBU2b4jONUhBUjbEreu/view?usp=sharing_.
     Include a Criticism Sandwich in the summary review.
         *A Criticism Sandwich:*
