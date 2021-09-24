@@ -11,7 +11,7 @@ This week, you'll build confidence by learning how to debugging your code. You'l
 ## Debugging - Due Monday, September 27th at 10pm
 Bugs are a natural, normal part of the code. Strong programmers know that when they run newly built code, they should anticipate errors. There is an [absurd](https://lh3.googleusercontent.com/proxy/0uLBn0M36KjMFbIhHSmGLRoRYGWLjw2RZ9U2kJPiR3P7A6qDCR9WOxOwCMOZSoD3NmWZwGxyakZBh6rTi2BHvMoh3xDRZCT_qVRBJTrL_j0TnECV4D8eAUwTA2RBPsHC3lb9yWqklGpbEQQJhmTCLxZmBe4Gam_P60k) [number](https://undo.io/media/uploads/files/Code_for_six_minutes_meme.jpg) [of memes](https://i.imgflip.com/5a1zcw.jpg) [on this](https://pbs.twimg.com/media/DK-9oznVwAApJs8.jpg) [topic](https://i.redd.it/6y67wddscm451.jpg). KNOW THIS: **You will make broken code first, then fix it.**
 
-Walk through the assignment [linked on Canvas](https://canvas.colorado.edu/courses/75648/assignments/1182628) for clear instructions. Then download the code in this repository and fix it with your newfound skills. 
+Walk through the assignment [linked on Canvas](https://canvas.colorado.edu/courses/75648/assignments/1182628) for clear instructions. Then download **debugPractice.py** from this repository and fix it with your newfound skills. 
 
 **Submit the code by adding it to this repository.** 
 Click the "Add Code" button, then select "Upload New File". You can drag and drop your file into the window that opens.
