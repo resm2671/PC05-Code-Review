@@ -23,29 +23,29 @@ Click [here](https://google.github.io/eng-practices/review/reviewer/), for more 
 Use the following text as a check list. Go through your code 4 times, following each of these points as the focus each time.
 ### Quality Code...
 1. **does what it's supposed to do.** To ensure this, you should:
-  1. Make sure there is a description at the top of the code, so you know if the code does what it should or not.
-  2. Scan the side for warnings (exclamation point triangle) and errors (red circle). Make sure you understand each warning. Edit the code to remove errors and as many warnings as possible. If you keep warnings know why it's worth doing so.
-  3. Run the code and make sure that the description matches the result. If it doesn't, edit the description.
+  - Make sure there is a description at the top of the code, so you know if the code does what it should or not.
+  - Scan the side for warnings (exclamation point triangle) and errors (red circle). Make sure you understand each warning. Edit the code to remove errors and as many warnings as possible. If you keep warnings know why it's worth doing so.
+  - Run the code and make sure that the description matches the result. If it doesn't, edit the description.
 
 2. **doesn't contain defects and problems.** To check for this in the code, you should: 
-  1. Run the code and look a the command line output for errors. Use the error report to navigate to the bad line of code and fix or delete it.
-  2. Examine the code for poor syntax or organization. (Are all of your variables defined together? Are tasks commented with descriptions? Do you have cleanup at the end of your code?)
+  - Run the code and look a the command line output for errors. Use the error report to navigate to the bad line of code and fix or delete it.
+  - Examine the code for poor syntax or organization. (Are all of your variables defined together? Are tasks commented with descriptions? Do you have cleanup at the end of your code?)
 
 3. **is easy to read, maintain or extend.** Most likely where you'll spend the most time. To check for this, you should:
-  1. Organize by section: imports (get libraries), setup (make turtles, panel, etc.), define variables, create functions, perform tasks
-  2. Use empty lines to separate sections.
-  3. Use comments to 1) label sections (variables, drawing, etc.), 2) describe an important variable, like a turtle, and what it will do, 3) describe what a loop does, or what a conditional checks for.
-  4. Use negative space! Don't cram all your code into one block. Use empty lines and spaces between values to make your code easy to read. 
+  - Organize by section: imports (get libraries), setup (make turtles, panel, etc.), define variables, create functions, perform tasks
+  - Use empty lines to separate sections.
+  - Use comments to 1) label sections (variables, drawing, etc.), 2) describe an important variable, like a turtle, and what it will do, 3) describe what a loop does, or what a conditional checks for.
+  - Use negative space! Don't cram all your code into one block. Use empty lines and spaces between values to make your code easy to read. 
 
 4. **is [D.R.Y](https://www.softwareyoga.com/is-your-code-dry-or-wet/) (Don't Repeat Yourself)**, and not W.E.T. (Write Everything Twice)
-  1. Go through the code and look for repeating patterns. Do you see the same block of code repeated several times to make a pattern? Put in in a loop! See the same value used throughout the code? Save it to a variable! Do you see many turtles doing something 1 turtle can do? Consider consolidating.
+  - Go through the code and look for repeating patterns. Do you see the same block of code repeated several times to make a pattern? Put in in a loop! See the same value used throughout the code? Save it to a variable! Do you see many turtles doing something 1 turtle can do? Consider consolidating.
 
 ### For full credit you should:
-    1. Use Github or Spyder to review 
-        1. Your old code (PC02-04)
-        2. A classmate's code (PC02-04)
-        3. Dr. Z's Bad Code (in this repo)
-    2. Go through the code, making line-by-line edits. You must add at least one flow control into the code (for loop, if statment, while loop). (If there is no place to do so, add something to the code!) [Video tutorial here](https://drive.google.com/file/d/1GUof2Q7bomjw_qBU2b4jONUhBUjbEreu/view?usp=sharing_.
+1. Use Github or Spyder to review 
+        - Your old code (PC02-04)
+        - A classmate's code (PC02-04)
+        - Dr. Z's Bad Code (in this repo)
+2. Go through the code, making line-by-line edits. You must add at least one flow control into the code (for loop, if statment, while loop). (If there is no place to do so, add something to the code!) [Video tutorial here](https://drive.google.com/file/d/1GUof2Q7bomjw_qBU2b4jONUhBUjbEreu/view?usp=sharing_.
     Include a Criticism Sandwich in the summary review.
         *A Criticism Sandwich:*
             Open with a statement about the code quality the code had before your edits
@@ -53,12 +53,12 @@ Use the following text as a check list. Go through your code 4 times, following 
             what you edited in Github to help achieve this,
             Close with 2-3 things you especially liked about the original code and/or how you think the program(mer) is progressing. 
 
-    3. **Be kind!** It's hard to look back at code, and we're all still learning (even your LAs and Dr. Z). Don't be angry or embarrassed with yourself for not making code perfectly the first time. You and your peers have done a lot, and this is the chance to level up!
+3. **Be kind!** It's hard to look back at code, and we're all still learning (even your LAs and Dr. Z). Don't be angry or embarrassed with yourself for not making code perfectly the first time. You and your peers have done a lot, and this is the chance to level up!
     **Note: Any derogatory or (self) abusive language may reduce your score.**
 
-    4. You may also provide artistic feedback, with commentary on color choice, use of space (composition) and style.
+4. You may also provide artistic feedback, with commentary on color choice, use of space (composition) and style.
 
-    5. In the text entry on Canvas, submit the link to the code (Github repo) you will be reviewing. Please also submit the text "completed" when you have submitted your review on Github. 
+5. In the text entry on Canvas, submit the link to the code (Github repo) you will be reviewing. Please also submit the text "completed" when you have submitted your review on Github. 
 
  
 
