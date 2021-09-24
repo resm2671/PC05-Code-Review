@@ -1,6 +1,7 @@
 # Weeks 5 & 6 - Code Review & more!
 
-The theme of this week is "You know more than you think you know!" This week, you'll build confidence by learning how to debugging your code. You'll also learn about how to upgrade old code in a code review. *Please note that times and information seen here cannot easily be updated. Please follow Canvas dates and times in the event of any changes!*
+The theme of this week is "You know more than you think you know!"<br>
+This week, you'll build confidence by learning how to debugging your code. You'll also learn about how to upgrade old code in a code review. *Please note that times and information seen here cannot easily be updated. Please follow Canvas dates and times in the event of any changes!*
 
 ## In this repository:
 1. **Practice For Loops.ipynb** - Jupyter Notebook file containing a walk through of how to use for loops. If you are still struggling with for loops, download this and start anew! Practice practice practice! **Submit your completed code to this repository (instructions under Debugging).**
