@@ -1,4 +1,4 @@
-# Week 5 & 6 - Code Review & more!
+# Weeks 5 & 6 - Code Review & more!
 
 The theme of this week is "You know more than you think you know!" This week, you'll build confidence by learning how to debugging your code. You'll also learn about how to upgrade old code in a code review. *Please note that times and information seen here cannot easily be updated. Please follow Canvas dates and times in the event of any changes!*
 
